@@ -1,0 +1,855 @@
+[
+  {
+    "error": false,
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "What's the difference between a phone and a black person?",
+    "delivery": "A phone is actually useful.",
+    "flags": {
+      "nsfw": false,
+      "religious": false,
+      "political": false,
+      "racist": true,
+      "sexist": false,
+      "explicit": false
+    },
+    "safe": false,
+    "id": 0,
+    "lang": "en"
+  },
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "What do an orgasm and a pulse have in common?",
+    "delivery": "I don't care if she has one.",
+    "flags": {
+      "nsfw": true,
+      "religious": false,
+      "political": false,
+      "racist": false,
+      "sexist": false,
+      "explicit": true
+    },
+    "id": 1,
+    "safe": false,
+    "lang": "en"
+  },
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "I told my psychiatrist I got suicidal tendencies.",
+    "delivery": "He said from now on I have to pay in advance.",
+    "flags": {
+      "nsfw": false,
+      "religious": false,
+      "political": false,
+      "racist": false,
+      "sexist": false,
+      "explicit": false
+    },
+    "id": 2,
+    "safe": false,
+    "lang": "en"
+  },
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "How do you keep black people out of your back yard?",
+    "delivery": "Hang one in the front!",
+    "flags": {
+      "nsfw": false,
+      "religious": false,
+      "political": false,
+      "racist": true,
+      "sexist": false,
+      "explicit": true
+    },
+    "id": 3,
+    "safe": false,
+    "lang": "en"
+  },
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "My first high-school football game was a lot like my first time having sex...",
+    "delivery": "I was bloody and sore at the end, but at least my dad came.",
+    "flags": {
+      "nsfw": true,
+      "religious": false,
+      "political": false,
+      "racist": false,
+      "sexist": false,
+      "explicit": true
+    },
+    "id": 4,
+    "safe": false,
+    "lang": "en"
+  },
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "I had a granny that we couldn't decide whether to bury or cremate",
+    "delivery": "In the end we decided to just let her live.",
+    "flags": {
+      "nsfw": false,
+      "religious": false,
+      "political": false,
+      "racist": false,
+      "sexist": false,
+      "explicit": false
+    },
+    "id": 5,
+    "safe": false,
+    "lang": "en"
+  },
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "I'm thinking of setting up a comedy group to help people going through cancer treatment.",
+    "delivery": "I'll call it \"A Sense of Tumor\".",
+    "flags": {
+      "nsfw": false,
+      "religious": false,
+      "political": false,
+      "racist": false,
+      "sexist": false,
+      "explicit": false
+    },
+    "id": 6,
+    "safe": false,
+    "lang": "en"
+  },
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "Jokes about anti-vaxxer parents never get old.",
+    "delivery": "Just like their kids.",
+    "flags": {
+      "nsfw": false,
+      "religious": false,
+      "political": false,
+      "racist": false,
+      "sexist": false,
+      "explicit": false
+    },
+    "id": 7,
+    "safe": false,
+    "lang": "en"
+  },
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "What's the difference between a jew and a pizza?",
+    "delivery": "The pizza doesn't scream when you put it in the oven.",
+    "flags": {
+      "nsfw": false,
+      "religious": false,
+      "political": false,
+      "racist": true,
+      "sexist": false,
+      "explicit": true
+    },
+    "id": 8,
+    "safe": false,
+    "lang": "en"
+  },
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "Say what you want about pedophiles...",
+    "delivery": "But at least they drive slowly through the school zones.",
+    "flags": {
+      "nsfw": true,
+      "religious": false,
+      "political": false,
+      "racist": false,
+      "sexist": false,
+      "explicit": true
+    },
+    "id": 9,
+    "safe": false,
+    "lang": "en"
+  },
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "What's the difference between Jesus and a hooker?",
+    "delivery": "The look on their face when you are nailing them.",
+    "flags": {
+      "nsfw": false,
+      "religious": true,
+      "political": false,
+      "racist": false,
+      "sexist": false,
+      "explicit": true
+    },
+    "safe": false,
+    "id": 10,
+    "lang": "en"
+  },
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "How do we know Jesus wasn't black?",
+    "delivery": "He would have been hung from a tree, not a cross.",
+    "flags": {
+      "nsfw": false,
+      "religious": true,
+      "political": false,
+      "racist": true,
+      "sexist": false,
+      "explicit": false
+    },
+    "id": 11,
+    "safe": false,
+    "lang": "en"
+  },
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "How long does a black woman take to throw away the garbage?",
+    "delivery": "Nine months.",
+    "flags": {
+      "nsfw": false,
+      "religious": false,
+      "political": false,
+      "racist": true,
+      "sexist": false,
+      "explicit": true
+    },
+    "id": 12,
+    "safe": false,
+    "lang": "en"
+  },
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "What did one necrophiliac tell the other necrophiliac after work?",
+    "delivery": "\"Let's go have a couple of cold ones!\"",
+    "flags": {
+      "nsfw": true,
+      "religious": false,
+      "political": false,
+      "racist": false,
+      "sexist": false,
+      "explicit": true
+    },
+    "id": 13,
+    "safe": false,
+    "lang": "en"
+  },
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "What do dermatologists and the KKK have in common?",
+    "delivery": "They both remove blackheads.",
+    "flags": {
+      "nsfw": false,
+      "religious": false,
+      "political": false,
+      "racist": true,
+      "sexist": false,
+      "explicit": false
+    },
+    "id": 14,
+    "safe": false,
+    "lang": "en"
+  },
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "What did the boy with no arms get for Christmas?",
+    "delivery": "I don't know, he hasn't opened it yet.",
+    "flags": {
+      "nsfw": false,
+      "religious": false,
+      "political": false,
+      "racist": false,
+      "sexist": false,
+      "explicit": false
+    },
+    "id": 15,
+    "safe": false,
+    "lang": "en"
+  },
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "What's the difference between a phone and a black person?",
+    "delivery": "A phone is actually useful.",
+    "flags": {
+      "nsfw": false,
+      "religious": false,
+      "political": false,
+      "racist": true,
+      "sexist": false,
+      "explicit": false
+    },
+    "safe": false,
+    "id": 16,
+    "lang": "en"
+  },
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "What's the difference between a jew and a pizza?",
+    "delivery": "The pizza doesn't scream when you put it in the oven.",
+    "flags": {
+      "nsfw": false,
+      "religious": false,
+      "political": false,
+      "racist": true,
+      "sexist": false,
+      "explicit": true
+    },
+    "id": 17,
+    "safe": false,
+    "lang": "en"
+  },
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "Life's like my dick.",
+    "delivery": "The more children you have, the harder it gets.",
+    "flags": {
+      "nsfw": true,
+      "religious": false,
+      "political": false,
+      "racist": false,
+      "sexist": false,
+      "explicit": true
+    },
+    "id": 18,
+    "safe": false,
+    "lang": "en"
+  },
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "The KKK isn't really that racist.",
+    "delivery": "I went to one of their meetings and there were a lot of black people hanging around.",
+    "flags": {
+      "nsfw": false,
+      "religious": false,
+      "political": false,
+      "racist": true,
+      "sexist": false,
+      "explicit": true
+    },
+    "id": 19,
+    "safe": false,
+    "lang": "en"
+  },
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "Why are Americans shit at Dota?",
+    "delivery": "They can't protect their towers.",
+    "flags": {
+      "nsfw": false,
+      "religious": false,
+      "political": true,
+      "racist": false,
+      "sexist": false,
+      "explicit": true
+    },
+    "id": 20,
+    "safe": false,
+    "lang": "en"
+  },
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "What's yellow and can't swim?",
+    "delivery": "A bus full of children.",
+    "flags": {
+      "nsfw": false,
+      "religious": false,
+      "political": false,
+      "racist": false,
+      "sexist": false,
+      "explicit": false
+    },
+    "safe": false,
+    "id": 21,
+    "lang": "en"
+  },
+
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "Life's like my dick.",
+    "delivery": "The more children you have, the harder it gets.",
+    "flags": {
+      "nsfw": true,
+      "religious": false,
+      "political": false,
+      "racist": false,
+      "sexist": false,
+      "explicit": true
+    },
+    "id": 22,
+    "safe": false,
+    "lang": "en"
+  },
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "What do dermatologists and the KKK have in common?",
+    "delivery": "They both remove blackheads.",
+    "flags": {
+      "nsfw": false,
+      "religious": false,
+      "political": false,
+      "racist": true,
+      "sexist": false,
+      "explicit": false
+    },
+    "id": 23,
+    "safe": false,
+    "lang": "en"
+  },
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "What's the most notable similarity between a pedophile and a roller coaster?",
+    "delivery": "They both make a child scream, but the first ride's never the last",
+    "flags": {
+      "nsfw": true,
+      "religious": false,
+      "political": false,
+      "racist": false,
+      "sexist": false,
+      "explicit": true
+    },
+    "id": 24,
+    "safe": false,
+    "lang": "en"
+  },
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "Muslim women are horrible competitors.",
+    "delivery": "No matter what they do, they always get beat.",
+    "flags": {
+      "nsfw": false,
+      "religious": true,
+      "political": false,
+      "racist": false,
+      "sexist": false,
+      "explicit": false
+    },
+    "id": 25,
+    "safe": false,
+    "lang": "en"
+  },
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "When I was a kid, I made a really big sandcastle with my grandma.",
+    "delivery": "Unfortunately, that didn't impress anyone at the cremation...",
+    "flags": {
+      "nsfw": false,
+      "religious": false,
+      "political": false,
+      "racist": false,
+      "sexist": false,
+      "explicit": false
+    },
+    "id": 26,
+    "safe": false,
+    "lang": "en"
+  },
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "Why do Africans have dark skin?",
+    "delivery": "It's easier to commit crimes at night.",
+    "flags": {
+      "nsfw": false,
+      "religious": false,
+      "political": false,
+      "racist": true,
+      "sexist": false,
+      "explicit": false
+    },
+    "safe": false,
+    "id": 27,
+    "lang": "en"
+  },
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "What's the difference between Harry Potter and the jews?",
+    "delivery": "Harry escaped the chamber.",
+    "flags": {
+      "nsfw": false,
+      "religious": false,
+      "political": false,
+      "racist": true,
+      "sexist": false,
+      "explicit": true
+    },
+    "id": 28,
+    "safe": false,
+    "lang": "en"
+  },
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "What's black and sits at the top of a stairwell?",
+    "delivery": "A paraplegic after a house fire.",
+    "flags": {
+      "nsfw": false,
+      "religious": false,
+      "political": false,
+      "racist": false,
+      "sexist": false,
+      "explicit": false
+    },
+    "id": 29,
+    "safe": false,
+    "lang": "en"
+  },
+
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "What did the cannibal do after he dumped his girlfriend?",
+    "delivery": "He wiped his ass.",
+    "flags": {
+        "nsfw": true,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": true
+    },
+    "id": 30,
+    "safe": false,
+    "lang": "en"
+},
+{
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "9/11 jokes are not funny.",
+    "delivery": "The other 2 though, are hilarious!",
+    "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": true,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+    },
+    "id": 31,
+    "safe": false,
+    "lang": "en"
+},
+{
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "What do 9 out of 10 people enjoy?",
+    "delivery": "Gang rape.",
+    "flags": {
+        "nsfw": true,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": true
+    },
+    "id": 32,
+    "safe": false,
+    "lang": "en"
+},
+{
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "The KKK isn't really that racist.",
+    "delivery": "I went to one of their meetings and there were a lot of black people hanging around.",
+    "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": true,
+        "sexist": false,
+        "explicit": true
+    },
+    "id": 33,
+    "safe": false,
+    "lang": "en"
+},
+{
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "People are like jellybeans and licorice:",
+    "delivery": "No one likes the blacks.",
+    "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": true,
+        "sexist": false,
+        "explicit": false
+    },
+    "id": 34,
+    "safe": false,
+    "lang": "en"
+},
+{
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "Why does Dr. Pepper come in a bottle?",
+    "delivery": "His wife is dead.",
+    "flags": {
+        "nsfw": true,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": true
+    },
+    "id": 35,
+    "safe": false,
+    "lang": "en"
+},
+{
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "Life's like my dick.",
+    "delivery": "The more children you have, the harder it gets.",
+    "flags": {
+        "nsfw": true,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": true
+    },
+    "id": 36,
+    "safe": false,
+    "lang": "en"
+},
+{
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "What's the difference between a baby and a watermelon?",
+    "delivery": "One's satisfying to hit with a sledgehammer. The other's a watermelon.",
+    "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": true
+    },
+    "id": 37,
+    "safe": false,
+    "lang": "en"
+},
+{
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "What do you call a kid with no arms and an eyepatch?",
+    "delivery": "Names.",
+    "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+    },
+    "id": 38,
+    "safe": false,
+    "lang": "en"
+},
+{
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "Why do German showers have 11 holes?",
+    "delivery": "Because Jews only have 10 fingers.",
+    "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": true,
+        "sexist": false,
+        "explicit": false
+    },
+    "id": 39,
+    "safe": false,
+    "lang": "en"
+},
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "What's the difference between a baby and a watermelon?",
+    "delivery": "One's satisfying to hit with a sledgehammer. The other's a watermelon.",
+    "flags": {
+      "nsfw": false,
+      "religious": false,
+      "political": false,
+      "racist": false,
+      "sexist": false,
+      "explicit": true
+    },
+    "id": 40,
+    "safe": false,
+    "lang": "en"
+  },
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "The KKK isn't really that racist.",
+    "delivery": "I went to one of their meetings and there were a lot of black people hanging around.",
+    "flags": {
+      "nsfw": false,
+      "religious": false,
+      "political": false,
+      "racist": true,
+      "sexist": false,
+      "explicit": true
+    },
+    "id": 41,
+    "safe": false,
+    "lang": "en"
+  },
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "What's the difference between a little girl and a fridge?",
+    "delivery": "Fridges don't scream when you put your meat in them.",
+    "flags": {
+      "nsfw": true,
+      "religious": false,
+      "political": false,
+      "racist": false,
+      "sexist": false,
+      "explicit": true
+    },
+    "id": 42,
+    "safe": false,
+    "lang": "en"
+  },
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "9/11 jokes are not funny.",
+    "delivery": "The other 2 though, are hilarious!",
+    "flags": {
+      "nsfw": false,
+      "religious": false,
+      "political": true,
+      "racist": false,
+      "sexist": false,
+      "explicit": false
+    },
+    "id": 43,
+    "safe": false,
+    "lang": "en"
+  },
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "I was walking down the street and saw some black guy on a bike and it looked just like mine so I ran home to check.",
+    "delivery": "Thankfully he was still chained up in my basement.",
+    "flags": {
+      "nsfw": false,
+      "religious": false,
+      "political": false,
+      "racist": true,
+      "sexist": false,
+      "explicit": false
+    },
+    "id": 44,
+    "safe": false,
+    "lang": "en"
+  },
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "Why can't orphans play baseball?",
+    "delivery": "They don't know where home is.",
+    "flags": {
+      "nsfw": false,
+      "religious": false,
+      "political": false,
+      "racist": false,
+      "sexist": false,
+      "explicit": false
+    },
+    "id": 45,
+    "safe": false,
+    "lang": "en"
+  },
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "Dark humor is like cancer.",
+    "delivery": "It's more funny when children get it.",
+    "flags": {
+      "nsfw": false,
+      "religious": false,
+      "political": false,
+      "racist": false,
+      "sexist": false,
+      "explicit": false
+    },
+    "id": 46,
+    "safe": false,
+    "lang": "en"
+  },
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "What's yellow and can't swim?",
+    "delivery": "A bus full of children.",
+    "flags": {
+      "nsfw": false,
+      "religious": false,
+      "political": false,
+      "racist": false,
+      "sexist": false,
+      "explicit": false
+    },
+    "safe": false,
+    "id": 47,
+    "lang": "en"
+  },
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "How many Jews can you fit into a car?",
+    "delivery": "Two in the front, three in the back, and a hundred in the ashtray.",
+    "flags": {
+      "nsfw": false,
+      "religious": false,
+      "political": false,
+      "racist": true,
+      "sexist": false,
+      "explicit": true
+    },
+    "id": 48,
+    "safe": false,
+    "lang": "en"
+  },
+  {
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "What is the difference between a pizza and a black man?",
+    "delivery": "A pizza can feed a family of five.",
+    "flags": {
+      "nsfw": false,
+      "religious": false,
+      "political": false,
+      "racist": true,
+      "sexist": false,
+      "explicit": false
+    },
+    "id": 49,
+    "safe": false,
+    "lang": "en"
+  }
+]
